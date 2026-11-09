@@ -1,0 +1,31 @@
+# GroupDocs.Total for Python via .NET - Code Examples
+
+> Entry point for Python code examples of the groupdocs-total-net metapackage, which installs the 14 GroupDocs for Python via .NET products. Each product's runnable examples live in its own repository.
+
+Package: groupdocs-total-net on PyPI (pip install groupdocs-total-net)
+Python: 3.5 to 3.14 on Windows x64, Linux x86_64 (glibc 2.27+), macOS 13+
+Several products in one script: on Windows, set os.environ["DOTNET_MULTILEVEL_LOOKUP"] = "0" before the first call into any product.
+
+## Product examples
+
+- [GroupDocs.Conversion](https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-Python-via-.NET)
+- [GroupDocs.Viewer](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-Python-via-.NET)
+- [GroupDocs.Comparison](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-Python-via-.NET)
+- [GroupDocs.Watermark](https://github.com/groupdocs-watermark/GroupDocs.Watermark-for-Python-via-.NET)
+- [GroupDocs.Metadata](https://github.com/groupdocs-metadata/GroupDocs.Metadata-for-Python-via-.NET)
+- [GroupDocs.Merger](https://github.com/groupdocs-merger/GroupDocs.Merger-for-Python-via-.NET)
+- [GroupDocs.Assembly](https://github.com/groupdocs-assembly/GroupDocs.Assembly-for-Python-via-.NET)
+- [GroupDocs.Redaction](https://github.com/groupdocs-redaction/GroupDocs.Redaction-for-Python-via-.NET)
+- [GroupDocs.Signature](https://github.com/groupdocs-signature/GroupDocs.Signature-for-Python-via-.NET)
+- [GroupDocs.Parser](https://github.com/groupdocs-parser/GroupDocs.Parser-for-Python-via-.NET)
+- [GroupDocs.Search](https://github.com/groupdocs-search/GroupDocs.Search-for-Python-via-.NET)
+- [GroupDocs.Annotation](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Python-via-.NET)
+- [GroupDocs.Editor](https://github.com/groupdocs-editor/GroupDocs.Editor-for-Python-via-.NET)
+- [GroupDocs.Markdown](https://github.com/groupdocs-markdown/GroupDocs.Markdown-for-Python-via-.NET)
+
+## Docs
+
+- [Documentation](https://docs.groupdocs.com/total/python-net/)
+- [Installation](https://docs.groupdocs.com/total/python-net/installation/)
+- [Quick Start Guide](https://docs.groupdocs.com/total/python-net/quick-start-guide/)
+- [Release notes](https://releases.groupdocs.com/total/python-net/release-notes/)
